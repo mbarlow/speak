@@ -2,6 +2,8 @@
 
 AI-powered speech-to-text transcription that runs entirely in your browser using OpenAI's Whisper models.
 
+![Screenshot](https://github.com/user-attachments/assets/e1ba7955-6545-40a1-bc4d-7772d03c4de9)
+
 ## Features
 
 - **Real AI Transcription** - Uses Whisper models for accurate speech recognition
